@@ -130,7 +130,10 @@ pip install -r requirements.txt
 - Evaluation for different weight combinations:
   - Precision, Recall, and F1-score improvements.
 
-##DEVELOPED BY
+## Developed By
+Evangelos Aspiotis (https://github.com/EvangelosAspiotis)
+Panagiotis Korkizoglou (https://github.com/devkorki)
+Nikolaos Skolarikos
 
 ## Contributing
 
