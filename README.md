@@ -130,7 +130,7 @@ pip install -r requirements.txt
 - Evaluation for different weight combinations:
   - Precision, Recall, and F1-score improvements.
 
----
+##DEVELOPED BY
 
 ## Contributing
 
